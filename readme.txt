@@ -4,6 +4,7 @@ Mohammad Reza Nameni
  Institute of Geophysics, University of Tehran (IGUT), nameni.mreza@ut.ac.ir
 
 Seyedmohammadsadegh Jafari
+ SeisRaM working group, Department of Mathematics, Informatics and Geosciences, University of Trieste, Seyedmohammadsadegh.Jafari@phd.units.it
  Earthquake Research Center (EQRC), Ferdowsi University of Mashhad, sms.jafari@mail.um.ac.ir
 
 Habib Rahimi
@@ -25,3 +26,4 @@ Highlights
 Summary
 
 The use of seismic ambient noise to estimate velocity and attenuation structures and estimate variation in these parameters on Earth has grown significantly in recent decades. In recent years seismic ambient noise has had an essential role in seismology. However, gaps in recorded time series for various reasons cause significant problems in ambient noise processing. This study aimed to fill these gaps using time series with suitable frequency contents. To achieve this goal, a gap was applied to a continuous time series, and a time series with the same length as the gap, from after the gap, was chosen as the primary signal, to make it more similar to the gap as much as possible. To fulfill this, a moving (step by step) periodogram with various windows was used on time series before and after the gap. By stacking these periodograms, a reference periodogram was obtained as a suitable indicator of the frequency content of the gap, which was used to improve the frequency content of the primary signal. This study suggested that improving the frequency content of existing time series would be an advanced technique to tackle the lack of data in seismic ambient noise.
+
